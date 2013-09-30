@@ -13,7 +13,6 @@ describe('rework-font-variant', function () {
       .use(variants)
       .toString()
       .trim();
-    console.log(css);
     css.should.equal(output);
   });
 });
