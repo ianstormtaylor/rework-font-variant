@@ -24,7 +24,7 @@ h2 {
 }
 
 table {
-  font-variant-numerals: lining-nums;
+  font-variant-numeric: lining-nums;
 }
 ```
 
