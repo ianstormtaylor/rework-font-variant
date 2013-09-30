@@ -4,6 +4,10 @@
 
   This is part of the [CSS spec](http://www.w3.org/TR/css3-fonts/#font-rend-props), but no browser supports the shorthands yet.
 
+## Installation
+
+    $ npm install rework-font-variant
+
 ## Example
 
 ```js
