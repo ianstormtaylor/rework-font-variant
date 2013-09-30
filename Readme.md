@@ -32,7 +32,7 @@ table {
 
 ```css
 table {
-  font-variant: small-caps lining-numerals;
+  font-variant: small-caps lining-nums;
 }
 ```
 
