@@ -1,14 +1,13 @@
 {
   "name": "rework-font-variant",
   "version": "1.0.0",
-  "repository": "git://github.com/ianstormtaylor/rework-font-variant.git",
+  "repository": "ianstormtaylor/rework-font-variant",
   "license": "MIT",
   "description": "Implements the font-variant-* properties for browsers that don't yet support them.",
   "keywords": ["font-variant", "font", "variant", "rework", "type", "typography", "open", "type", "feature", "font-feature-settings"],
-  "devDependencies": {
-    "should": "*",
-    "mocha": "*",
-    "rework": "*"
-  },
+  "scripts": [
+    "lib/index.js",
+    "lib/properties.js"
+  ],
   "main": "lib/index.js"
 }

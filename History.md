@@ -1,3 +1,7 @@
+1.0.0 - December 23, 2013
+-------------------------
+* add component support
+
 0.0.3 - December 12, 2013
 -------------------------
 * add `repository` field to `package.json`
