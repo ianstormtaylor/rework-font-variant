@@ -21,3 +21,8 @@ h2 {
   font-feature-settings: "smcp", "c2sc", "onum";
   font-variant: all-small-caps oldstyle-nums;
 }
+
+p {
+  font-feature-settings: normal;
+  font-variant-position: normal;
+}

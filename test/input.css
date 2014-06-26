@@ -18,3 +18,7 @@ h2 {
   font-weight: bold;
   font-variant: all-small-caps oldstyle-nums;
 }
+
+p {
+  font-variant-position: normal;
+}
