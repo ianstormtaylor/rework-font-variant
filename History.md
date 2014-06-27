@@ -1,3 +1,7 @@
+1.0.1 - June 27, 2014
+-------------------------
+* fix issue with normal & inherit values
+
 1.0.0 - December 23, 2013
 -------------------------
 * add component support
