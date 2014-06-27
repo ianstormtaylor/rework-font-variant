@@ -14,7 +14,20 @@ abbr {
   font-size: 23px;
 }
 
+h1 {
+  font-variant: normal;
+}
+
+h1 a {
+  font-variant: inherit;
+}
+
+
 h2 {
   font-weight: bold;
   font-variant: all-small-caps oldstyle-nums;
+}
+
+p {
+  font-variant-position: normal;
 }
